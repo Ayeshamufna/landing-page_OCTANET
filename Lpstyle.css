@@ -13,9 +13,10 @@ html,body{
     height: 100vh;
 }
 .top{
+display: flex;
     width: 100%;
     min-height: 60vh;
-    background-image:url(https://th.bhttps://wallpaperaccess.com/full/1939344.jpg);
+    background-image:url(https://static.toiimg.com/photo/85062718.cms);<!--NC-->
     background-size: cover;
     background-position: center;
 }
@@ -39,13 +40,6 @@ html,body{
     font-weight: 600;
     font-size: 4vw;
 }
-.text .image{
-    background-image: url(https://images.pexels.com/photos/291732/pexels-photo-291732.jpeg?cs=srgb&dl=adventure-cold-daylight-291732.jpg&fm=jpg);
-    background-size:  cover;
-    background-position: center;
-    height: 300px;
-    width: 220px;
-}
 .rtext{
     display: flex;
     width: 25px;
@@ -53,23 +47,20 @@ html,body{
     justify-content: space-between;
 }
 .rtext p{
-    font-size: 12px;
+    font-size: 18px;
 }
 .bottom{
     display: flex;
     width: 100%;
+    color: white;
     min-height: 40vh;
 }
 .b1{
     width: 30%;
     min-height: inherit;
-    background-image: url(https://th.bing.com/th/id/OIP.rqaF-K1qkYqoBwJ4qQnS4QHaJQ?rs=1&pid=ImgDetMain);
+    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/manu-bhaker-sarabjot-singh-302635472-16x9_1.jpg?VersionId=M8GqRpx5PxT4bLQj8XTrn7vIYZgvPHuL&size=690:388);
     background-size: cover;
     background-position: center;
-}
-.b1 .h1{
-    text-align: center;
-    padding: 30px;
 }
 .b1 .h1{
     text-align: center;
@@ -85,7 +76,7 @@ html,body{
 .b2 .up{
     width: 100%;
     min-height: 20vh;
-    background-image: url(https://th.bing.com/th/id/OIP.I6Je14MLHmEsBPCI1MYL5gHaE8?rs=1&pid=ImgDetMain);
+    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/swapnil-singh-015627537-16x9_0.jpg?VersionId=65cZo9RAyjHk9uPTBiyjQn4yJLUE3a.s&size=690:388);
     background-size: cover;
     background-position: center;
 }
@@ -99,9 +90,11 @@ html,body{
     padding: 15px;
 }
 .b2 .down{
-    width: 200%;
-    min-height: 20vh;
-    background-image: url(https://th.bing.com/th/id/OIP.jZlPT0jRXMphJbEC5z-gXAHaE8?rs=1&pid=ImgDetMain);
+display: flex;
+    
+  
+    min-height: 30vh;
+    background-image: url(https://www.insidesport.in/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-25-at-3.40.33-PM.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -114,7 +107,7 @@ html,body{
 .b3{
     width: 40%;
     min-height: inherit;
-    background-image: url(https://images.pexels.com/photos/1194775/pexels-photo-1194775.jpeg?cs=srgb&dl=pexels-lil-artsy-1194775.jpg&fm=jpg);
+    background-image: url(https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/04/Aman-Sehrawat.jpg);
     background-size: cover;
     background-position: center;
 }
